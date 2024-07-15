@@ -28,21 +28,6 @@ The project is divided into several modules:
 - `SuperFile.c/.h`: Supermarket file operations
 - `GeneralList.c/.h`: Generic linked list implementation
 
-## Compilation
-
-To compile the project, use a C compiler such as GCC:
-
-```
-gcc *.c -o supermarket
-```
-
-## Usage
-
-Run the compiled executable:
-
-```
-./supermarket
-```
 
 Follow the on-screen prompts to navigate through the system's functionalities.
 
@@ -55,6 +40,5 @@ Follow the on-screen prompts to navigate through the system's functionalities.
 ## Notes
 
 - The system uses a mix of dynamic memory allocation and file I/O for data management.
-- Error handling is implemented throughout the codebase for robustness.
 - The project demonstrates various C programming concepts including structs, pointers, file handling, and modular programming.
 
